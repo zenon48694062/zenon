@@ -8,4 +8,3 @@ https://github.com/zanllp/sd-webui-infinite-image-browsing
 https://github.com/Uminosachi/sd-webui-inpaint-anything
 https://github.com/hako-mikan/sd-webui-lora-block-weight
 https://github.com/CiaraStrawberry/TemporalKit
-https://github.com/Scholar01/sd-webui-mov2mov
