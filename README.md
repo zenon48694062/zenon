@@ -5,4 +5,6 @@ https://github.com/ashen-sensored/stable-diffusion-webui-two-shot
 https://github.com/adieyal/sd-dynamic-prompts
 https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
 https://github.com/zanllp/sd-webui-infinite-image-browsing
-https://github.com/deforum-art/deforum-stable-diffusion
+https://github.com/Uminosachi/sd-webui-inpaint-anything
+https://github.com/hako-mikan/sd-webui-lora-block-weight
+https://github.com/CiaraStrawberry/TemporalKit
